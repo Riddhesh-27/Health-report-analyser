@@ -81,13 +81,4 @@ git clone https://github.com/YOUR-USERNAME/AI-Health-Report-Analyzer.git
 cd AI-Health-Report-Analyzer
 pip install -r requirements.txt
 streamlit run app.py
-| Phase                    | August | September | October | November |
-| ------------------------ | :----: | :-------: | :-----: | :------: |
-| Requirement Gathering    |  ✔️✔️  |           |         |          |
-| Data Collection          |        |     ✔️    |         |          |
-| Model Training           |        |    ✔️✔️   |         |          |
-| Testing & Validation     |        |           |    ✔️   |          |
-| Integration (App.py)     |        |           |   ✔️✔️  |          |
-| UI & Report Enhancements |        |           |         |    ✔️    |
-| Final Documentation      |        |           |         |   ✔️✔️   |
 
